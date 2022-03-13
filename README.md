@@ -1,6 +1,4 @@
-- �Hi, I’m @5yaojing
-- �I’m interested in lolita
-- �I’m currently learning C++
+
 
 
 <!---
